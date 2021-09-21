@@ -12,7 +12,6 @@ The folder structure and the contents of the files is described [here](https://g
 
 The following testnets were launched along with or after the public Ethereum 2.0 mainnet launch.
 
-- [Pyrmont Testnet](shared/pyrmont) (v1.0.0)
 - [Prater Testnet](shared/prater) (v1.0.1)
 
 ### Multi-Client Testnets (archive)
@@ -26,6 +25,7 @@ The following repositories contain client configurations for multi-client testne
 - [Spadina Testnet](https://github.com/goerli/medalla/blob/master/spadina) (v0.12.3)
 - [Zinken Testnet](https://github.com/goerli/medalla/blob/master/zinken) (v0.12.3)
 - [Toledo Testnet](shared/toledo/) (v1.0.0)
+- [Pyrmont Testnet](shared/pyrmont) (v1.0.0)
 
 The multi-client interop scripts can be found at [eth2-clients/multinet](https://github.com/eth2-clients/multinet).
 
